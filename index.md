@@ -8,38 +8,31 @@
 
 **Project Team**
 
-*Project Director / Software Designer*
+*Project Director / Software Designer*  
+R. Luke DuBois. NYU Tandon School of Engineering  
 
-R. Luke DuBois. NYU Tandon School of Engineering
+*Sensorium AI Research Team*  
+Mark Cartwright. New Jersey Institute of Technology  
+Danzel Serrano, Michael Clemens. NJIT  
+Cameron Churchwell. University of Illinois Urbana-Champaign  
+Max Morrison, Nathan Pruyne, Caedon Hsieh, Bryan Pardo. Northwestern University  
 
-*Sensorium AI Research Team*
+*Sensor Hardware*  
+Eric Singer. Researcher-in-residence, NYU Tandon  
+Moira Zhang, Alex Parent, Jason Wallach, NYU student researchers  
 
-Mark Cartwright. New Jersey Institute of Technology
-Danzel Serrano, Michael Clemens. NJIT
-Cameron Churchwell. University of Illinois Urbana-Champaign
-Max Morrison, Nathan Pruyne, Caedon Hsieh, Bryan Pardo. Northwestern University
+*Accessibility Research*  
+Amy Hurst, Director, NYU Ability Project  
+Lauren Race, Accessibility Design Researcher, NYU Ability Project  
+Michael Coney, Spandita Sarmah, Apoorva Avadhana, Isabella Rodriguez, NYU student researchers  
 
-*Sensor Hardware*
+*Exemplars*  
+Jakob Jordan, Kader Ziouehe, Jessica Frew, Owen Atkins, Thomas Ellenson, Jacob Yoon Egeskov Nossell, Martin Merrild  
 
-Eric Singer. Researcher-in-residence, NYU Tandon
-Moira Zhang, Alex Parent, Jason Wallach, NYU student researchers
+*Vocal Capture for Emotion*  
+Wayne Bennett, Amanda Morrow, Kendal Cafaro, Tony Torn, Saidu Tehan-Thomas, Remsen Welsh, Orlando Grant, Noah Sanders, Michael Tran, Spencer Evett, Bianca Rogoff, NYU Tisch Graduate Acting  
 
-*Accessibility Research*
-
-Amy Hurst, Director, NYU Ability Project
-Lauren Race, Accessibility Design Researcher, NYU Ability Project
-Michael Coney, Spandita Sarmah, Apoorva Avadhana, Isabella Rodriguez, NYU student researchers
-
-*Exemplars*
-
-Jakob Jordan, Kader Ziouehe, Jessica Frew, Owen Atkins, Thomas Ellenson, Jacob Yoon Egeskov Nossell, Martin Merrild
-
-*Vocal Capture for Emotion*
-
-Wayne Bennett, Amanda Morrow, Kendal Cafaro, Tony Torn, Saidu Tehan-Thomas, Remsen Welsh, Orlando Grant, Noah Sanders, Michael Tran, Spencer Evett, Bianca Rogoff, NYU Tisch Graduate Acting
-
-*NYU Institutional Support*
-
+*NYU Institutional Support*  
 NYU Ability Project; Integrated Design & Media (IDM), NYU Tandon School of Engineering; NYU Tandon @ The Yard; Music & Audio Research Lab (MARL), NYU Steinhardt School of Culture, Education, and Human Development; Grad Acting, NYU Tisch School of the Arts.
 
 
