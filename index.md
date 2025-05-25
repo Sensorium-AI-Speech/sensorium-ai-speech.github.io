@@ -9,16 +9,16 @@
 **Project Team**
 
 *Project Director / Software Designer*  
-[R. Luke DuBois](https://engineering.nyu.edu/faculty/r-luke-dubois?page=2). NYU Tandon School of Engineering  
+[R. Luke DuBois](https://engineering.nyu.edu/faculty/r-luke-dubois?page=2), NYU Tandon School of Engineering  
 
 *Sensorium AI Research Team*  
-[Mark Cartwright](https://people.njit.edu/profile/mc232). New Jersey Institute of Technology  
-Danzel Serrano, Michael Clemens. NJIT  
-Cameron Churchwell. University of Illinois Urbana-Champaign  
-Max Morrison, Nathan Pruyne, Caedon Hsieh, [Bryan Pardo](https://bryan-pardo.github.io/). Northwestern University  
+[Mark Cartwright](https://people.njit.edu/profile/mc232), New Jersey Institute of Technology  
+Danzel Serrano, Michael Clemens, NJIT  
+Cameron Churchwell, University of Illinois Urbana-Champaign  
+Max Morrison, Nathan Pruyne, Caedon Hsieh, [Bryan Pardo](https://bryan-pardo.github.io/), Northwestern University  
 
 *Sensor Hardware*  
-[Eric Singer](https://en.wikipedia.org/wiki/Eric_Singer_(artist)). Researcher-in-residence, NYU Tandon  
+[Eric Singer](https://en.wikipedia.org/wiki/Eric_Singer_(artist)), Researcher-in-residence, NYU Tandon  
 Moira Zhang, Alex Parent, Jason Wallach, NYU student researchers  
 
 *Accessibility Research*  
