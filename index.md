@@ -9,21 +9,21 @@
 **Project Team**
 
 *Project Director / Software Designer*  
-R. Luke DuBois. NYU Tandon School of Engineering  
+[R. Luke DuBois](https://engineering.nyu.edu/faculty/r-luke-dubois?page=2). NYU Tandon School of Engineering  
 
 *Sensorium AI Research Team*  
-Mark Cartwright. New Jersey Institute of Technology  
+[Mark Cartwright](https://people.njit.edu/profile/mc232). New Jersey Institute of Technology  
 Danzel Serrano, Michael Clemens. NJIT  
 Cameron Churchwell. University of Illinois Urbana-Champaign  
-Max Morrison, Nathan Pruyne, Caedon Hsieh, Bryan Pardo. Northwestern University  
+Max Morrison, Nathan Pruyne, Caedon Hsieh, [Bryan Pardo](https://bryan-pardo.github.io/). Northwestern University  
 
 *Sensor Hardware*  
-Eric Singer. Researcher-in-residence, NYU Tandon  
+[Eric Singer](https://en.wikipedia.org/wiki/Eric_Singer_(artist)). Researcher-in-residence, NYU Tandon  
 Moira Zhang, Alex Parent, Jason Wallach, NYU student researchers  
 
 *Accessibility Research*  
-Amy Hurst, Director, NYU Ability Project  
-Lauren Race, Accessibility Design Researcher, NYU Ability Project  
+[Amy Hurst](https://amyhurst.com/), Director, [NYU Ability Project](https://wp.nyu.edu/ability/)  
+[Lauren Race](https://laurenrace.com/), Accessibility Design Researcher, NYU Ability Project  
 Michael Coney, Spandita Sarmah, Apoorva Avadhana, Isabella Rodriguez, NYU student researchers  
 
 *Exemplars*  
@@ -33,6 +33,10 @@ Jakob Jordan, Kader Ziouehe, Jessica Frew, Owen Atkins, Thomas Ellenson, Jacob Y
 Wayne Bennett, Amanda Morrow, Kendal Cafaro, Tony Torn, Saidu Tehan-Thomas, Remsen Welsh, Orlando Grant, Noah Sanders, Michael Tran, Spencer Evett, Bianca Rogoff, NYU Tisch Graduate Acting  
 
 *NYU Institutional Support*  
-NYU Ability Project; Integrated Design & Media (IDM), NYU Tandon School of Engineering; NYU Tandon @ The Yard; Music & Audio Research Lab (MARL), NYU Steinhardt School of Culture, Education, and Human Development; Grad Acting, NYU Tisch School of the Arts.
+[NYU Ability Project](https://ability.nyu.edu/)  
+[Integrated Design & Media](http://idm.engineering.nyu.edu/) (IDM), NYU Tandon School of Engineering  
+[NYU Tandon @ The Yard](https://engineering.nyu.edu/research/nyu-tandon-yard)  
+[Music & Audio Research Lab](https://steinhardt.nyu.edu/marl) (MARL), NYU Steinhardt  
+[Grad Acting](https://tisch.nyu.edu/grad-acting), NYU Tisch School of the Arts
 
 
