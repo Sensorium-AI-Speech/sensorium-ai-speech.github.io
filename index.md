@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Sensorium AI** is a research initiative dedicated to expanding the creative possibilities of voice expression for minimally-verbal users, developed in partnership with the [Sensorium Ex](https://www.paolaprestini.com/compositions/sensorium-ex) opera. It explores real-time speech synthesis and voice modulation, empowering users to personalize and express themselves beyond the constraints of contemporary Augmentative and Alternative Communication (AAC) devices.
+**Sensorium AI** is a research initiative dedicated to expanding the creative possibilities of voice expression for minimally-verbal users, developed in partnership with the [**Sensorium Ex**](https://www.paolaprestini.com/compositions/sensorium-ex) opera. It explores real-time speech synthesis and voice modulation, empowering users to personalize and express themselves beyond the constraints of contemporary Augmentative and Alternative Communication (AAC) devices.
 
 ## Repositories
 
