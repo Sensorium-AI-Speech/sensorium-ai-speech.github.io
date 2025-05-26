@@ -33,7 +33,7 @@ Moira Zhang, Alex Parent, Jason Wallach, NYU student researchers
 [Lauren Race](https://laurenrace.com/), Accessibility Design Researcher, NYU Ability Project  
 Michael Coney, Spandita Sarmah, Apoorva Avadhana, Isabella Rodriguez, NYU student researchers  
 
-*Project Coordinator with Sensorium Ex*
+*Project Coordinator with Sensorium Ex*  
 Daniella Omuero
 
 *Exemplars*  
