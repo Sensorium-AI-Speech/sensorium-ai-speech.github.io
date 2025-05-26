@@ -25,6 +25,7 @@ Max Morrison, Nathan Pruyne, Caedon Hsieh, [Bryan Pardo](https://bryan-pardo.git
 
 *Sensor Hardware*  
 [Eric Singer](https://en.wikipedia.org/wiki/Eric_Singer_(artist)), Researcher-in-residence, NYU Tandon  
+[Andrea Lauer](https://andrealauer.com/), Designer
 Moira Zhang, Alex Parent, Jason Wallach, NYU student researchers  
 
 *Accessibility Research*  
@@ -32,11 +33,20 @@ Moira Zhang, Alex Parent, Jason Wallach, NYU student researchers
 [Lauren Race](https://laurenrace.com/), Accessibility Design Researcher, NYU Ability Project  
 Michael Coney, Spandita Sarmah, Apoorva Avadhana, Isabella Rodriguez, NYU student researchers  
 
+*Project Coordinator with Sensorium Ex*
+Daniella Omuero
+
 *Exemplars*  
 Jakob Jordan, Kader Ziouehe, Jessica Frew, Owen Atkins, Thomas Ellenson, Jacob Yoon Egeskov Nossell, Martin Merrild  
 
 *Vocal Capture for Emotion*  
 Wayne Bennett, Amanda Morrow, Kendal Cafaro, Tony Torn, Saidu Tehan-Thomas, Remsen Welsh, Orlando Grant, Noah Sanders, Michael Tran, Spencer Evett, Bianca Rogoff, NYU Tisch Graduate Acting  
+
+*Sensorium Ex Creative Team*
+Paola Prestini, composer
+Ras Dia, creative producer
+Brenda Shaughnessy, libretto
+Jerron Herman, Jay Scheib, directors
 
 # Support
 
