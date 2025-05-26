@@ -48,7 +48,7 @@ Ras Dia, creative producer
 Brenda Shaughnessy, libretto  
 Jerron Herman, Jay Scheib, directors  
 
-# Support
+## Support
 
 **Sensorium Ex** is developed and presented with support from the Ford Foundation’s [Creativity and Free Expression Arts and Culture](https://www.fordfoundation.org/work/challenging-inequality/creativity-and-free-expression/) (CFE A&C)  program, the [Mellon Foundation](https://www.mellon.org/), the Doris Duke Foundation’s [Performing Arts Technologies Lab](https://www.dorisduke.org/funding-areas/performing-arts/technologies-lab/), Jill and Bill Steinberg, [National Sawdust](https://www.nationalsawdust.org/), the [Achelis & Bodman Foundation](https://achelisbodman.org/), and [New Music USA](https://newmusicusa.org/). 
 
