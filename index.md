@@ -42,11 +42,11 @@ Jakob Jordan, Kader Ziouehe, Jessica Frew, Owen Atkins, Thomas Ellenson, Jacob Y
 *Vocal Capture for Emotion*  
 Wayne Bennett, Amanda Morrow, Kendal Cafaro, Tony Torn, Saidu Tehan-Thomas, Remsen Welsh, Orlando Grant, Noah Sanders, Michael Tran, Spencer Evett, Bianca Rogoff, NYU Tisch Graduate Acting  
 
-*Sensorium Ex Creative Team*
-Paola Prestini, composer
-Ras Dia, creative producer
-Brenda Shaughnessy, libretto
-Jerron Herman, Jay Scheib, directors
+*Sensorium Ex Creative Team*  
+Paola Prestini, composer  
+Ras Dia, creative producer  
+Brenda Shaughnessy, libretto  
+Jerron Herman, Jay Scheib, directors  
 
 # Support
 
