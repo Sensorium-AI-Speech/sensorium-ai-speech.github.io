@@ -14,6 +14,8 @@
 
 ## Project Team
 
+*Commissioned by [VisionIntoArt](https://www.visionintoart.org/)*
+
 *Project Director / Software Designer*  
 [R. Luke DuBois](https://engineering.nyu.edu/faculty/r-luke-dubois?page=2), NYU Tandon School of Engineering  
 
@@ -43,7 +45,7 @@ Jakob Jordan, Kader Ziouehe, Jessica Frew, Owen Atkins, Thomas Ellenson, Jacob Y
 Wayne Bennett, Amanda Morrow, Kendal Cafaro, Tony Torn, Saidu Tehan-Thomas, Remsen Welsh, Orlando Grant, Noah Sanders, Michael Tran, Spencer Evett, Bianca Rogoff, NYU Tisch Graduate Acting  
 
 *Sensorium Ex Creative Team*  
-Paola Prestini, composer  
+Paola Prestini, composer and Sensorium Project Director   
 Ras Dia, creative producer  
 Brenda Shaughnessy, libretto  
 Jerron Herman, Jay Scheib, directors  
