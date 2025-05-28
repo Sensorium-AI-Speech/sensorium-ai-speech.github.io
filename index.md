@@ -14,8 +14,6 @@
 
 ## Project Team
 
-*Commissioned by [VisionIntoArt](https://www.visionintoart.org/)*
-
 *Project Director / Software Designer*  
 [R. Luke DuBois](https://engineering.nyu.edu/faculty/r-luke-dubois?page=2), NYU Tandon School of Engineering  
 
@@ -51,6 +49,8 @@ Brenda Shaughnessy, libretto
 Jerron Herman, Jay Scheib, directors  
 
 ## Support
+
+**Sensorium AI** was commissioned by [*VisionIntoArt*](https://www.visionintoart.org/) in collaboration with the **Sensorium Ex** opera.
 
 **Sensorium Ex** is developed and presented with support from the Ford Foundation’s [Creativity and Free Expression Arts and Culture](https://www.fordfoundation.org/work/challenging-inequality/creativity-and-free-expression/) (CFE A&C)  program, the [Mellon Foundation](https://www.mellon.org/), the Doris Duke Foundation’s [Performing Arts Technologies Lab](https://www.dorisduke.org/funding-areas/performing-arts/technologies-lab/), Jill and Bill Steinberg, [National Sawdust](https://www.nationalsawdust.org/), the [Achelis & Bodman Foundation](https://achelisbodman.org/), and [New Music USA](https://newmusicusa.org/). 
 
