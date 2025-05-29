@@ -28,9 +28,10 @@
 [Andrea Lauer](https://andrealauer.com/), Designer
 Moira Zhang, Alex Parent, Jason Wallach, NYU student researchers  
 
-*Accessibility Research*  
+*Accessibility Research and Interaction Design*    
 [Amy Hurst](https://amyhurst.com/), Director, [NYU Ability Project](https://wp.nyu.edu/ability/)  
 [Lauren Race](https://laurenrace.com/), Accessibility Design Researcher, NYU Ability Project  
+Gideon D'Arcangelo, Raj Patel, ARUP  
 Michael Coney, Spandita Sarmah, Apoorva Avadhana, Isabella Rodriguez, NYU student researchers  
 
 *VisionIntoArt (VIA) Impact Lab Fellow for Sensorium AI*  
