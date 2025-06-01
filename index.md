@@ -24,7 +24,7 @@
 [Max Morrison](https://www.maxrmorrison.com/), [Nathan Pruyne](https://nathanpruyne.com/), [Caedon Hsieh](https://www.linkedin.com/in/caedon-hsieh-235434180/), [Bryan Pardo](https://bryan-pardo.github.io/), Northwestern University  
 
 *Sensor Hardware*  
-[Eric Singer](https://en.wikipedia.org/wiki/Eric_Singer_(artist)), Researcher-in-residence, NYU Tandon  
+[Eric Singer](https://linktr.ee/ericsinger), Researcher-in-residence, NYU Tandon  
 [Andrea Lauer](https://andrealauer.com/), Designer
 Moira Zhang, Alex Parent, Jason Wallach, NYU student researchers  
 
