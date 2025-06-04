@@ -25,7 +25,7 @@
 
 *Sensor Hardware*  
 [Eric Singer](https://linktr.ee/ericsinger), Researcher-in-residence, NYU Tandon  
-[Andrea Lauer](https://andrealauer.com/), Designer
+[Andrea Lauer](https://andrealauer.com/), Designer  
 Moira Zhang, Alex Parent, Jason Wallach, NYU student researchers  
 
 *Accessibility Research and Interaction Design*    
